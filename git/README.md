@@ -1,5 +1,6 @@
-c/c_is_fun.c
+#!/bin/bash
+echo "best"
+#!/bin/bash
+echo"school"
 ~                                                                                                                                                                                                                                                                   
-
-~                                                                                                                                                                                                                                                                   
-
+~                                                                                                                                                                                                                                                                  
